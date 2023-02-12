@@ -2,31 +2,31 @@ package javaNormal;
 
 import java.util.Scanner;
 
-public class calısma2_3 {
+public class calÄ±sma2_3 {
     public static void main(String[] args) {
         Scanner girdi = new Scanner(System.in);
         int[][] matris = new int[3][3];
-        //System.out.println("Bir matris sayısı giriniz :");
+        //System.out.println("Bir matris sayÄ±sÄ± giriniz :");
         //matris[0][0] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[0][1] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[0][2] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[1][0] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[1][1] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[1][2] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[2][0] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz : ");
         //matris[2][1] = girdi.nextInt();
-        //System.out.println("bir matris sayısını giriniz : ");
+        //System.out.println("bir matris sayÄ±sÄ±nÄ± giriniz 31: ");
         //matris[2][2] = girdi.nextInt();
         for(int i=0;i<4;i++){
             for(int j =0;j<3;j++){
-                System.out.println("bir sayı giriniz :");
+                System.out.println("bir sayÄ± giriniz :");
 
                 matris[i][j] = girdi.nextInt();
             }
